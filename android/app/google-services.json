@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448249721886",
+    "project_id": "flutter-eval-haniel",
+    "storage_bucket": "flutter-eval-haniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448249721886:android:13cad06fd78b1360d5aa0f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_eval"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9XmCdJzbLXStBKe0r3-Ljjuzye7WYac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
