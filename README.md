@@ -4,17 +4,17 @@ An Ancient project test.
 
 # Your Project Name
 
-A login/register implementation with Flutter, Bloc, Firebase, GoRouter.
-A home listing a Idol's ranking from self made API with Flutter, Bloc, GoRouter.
-A brieft testing impl
+- A login/register implementation with Flutter, Bloc, Firebase, GoRouter.
+- A home listing an Idol's ranking page from self made API with Flutter, Bloc, GoRouter.
+- A brieft testing impl
 
 ## Extra task
 
-Router manager (GoRouter)
-Clean Code
-Error Handlers
-Repositories
-Generic Response
+- Router manager (GoRouter)
+- Clean Code
+- Error Handlers
+- Repositories
+- Generic Response
 
 ## Plugins Used
 
