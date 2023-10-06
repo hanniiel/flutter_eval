@@ -37,10 +37,15 @@ An Ancient project test.
 - [firebase_core_platform_interface](https://pub.dev/packages/firebase_core_platform_interface) v4.8.0: The platform interface for Firebase Core, which defines the platform-specific behavior for Firebase Core services like initialization and configuration.
 
 ## Getting Started
-
+```
 flutter pub get
+```
+````
 flutter test
+````
+````
 flutter run
+````
 
 ## Usage
 
